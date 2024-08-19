@@ -1,1 +1,1 @@
-"# BlogPHP" 
+Aplicación de blog hecha con PHP
